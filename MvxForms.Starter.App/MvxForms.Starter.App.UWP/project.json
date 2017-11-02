@@ -6,7 +6,7 @@
     "MvvmCross.Core": "5.4.0",
     "MvvmCross.Forms": "5.4.0",
     "MvvmCross.Platform": "5.4.0",
-    "Xamarin.Forms": "2.4.0.18342"
+    "Xamarin.Forms": "2.4.0.38779"
   },
   "frameworks": {
     "uap10.0.10586": {}
